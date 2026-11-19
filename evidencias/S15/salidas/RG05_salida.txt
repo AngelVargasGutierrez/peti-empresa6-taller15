@@ -1,0 +1,37 @@
+  id  Valor  Valor residual  reduccion  reduccion_pct                          Decisión
+R-15     20               8         12           60.0                           Mitigar
+R-01     16               9          7           44.0 Mitigar + Asumir con contingencia
+R-03     16               8          8           50.0                           Mitigar
+R-05     16               8          8           50.0                           Mitigar
+R-07     16               8          8           50.0                           Mitigar
+R-09     16               8          8           50.0              Transferir + Mitigar
+R-12     16               8          8           50.0                           Mitigar
+R-11     15               8          7           47.0                           Mitigar
+R-02     12               9          3           25.0           Asumir con contingencia
+R-08     12               9          3           25.0                           Mitigar
+R-04     12               6          6           50.0                           Mitigar
+R-13     12               6          6           50.0                           Mitigar
+R-14     12               6          6           50.0                           Mitigar
+R-16     12               6          6           50.0                           Mitigar
+R-06      9               6          3           33.0                           Mitigar
+R-10      9               6          3           33.0                           Mitigar
+
+Valor agregado del plan de tratamiento: 102 puntos (46% de reducción)
+
+=== RIESGOS RESIDUALES POR ENCIMA DEL CRITERIO (10) ===
+  id  Valor residual ¿Quién acepta el residual?
+R-15               8           Gerencia General
+R-01               9           Gerencia General
+R-03               8           Gerencia General
+R-05               8           Gerencia General
+R-07               8         Gerencia Comercial
+R-09               8           Gerencia General
+R-12               8           Gerencia General
+R-11               8           Gerencia General
+R-02               9           Gerencia General
+R-08               9           Gerencia General
+→ Cada uno requiere ACEPTACIÓN FORMAL FIRMADA antes de aprobar el plan.
+  Un riesgo residual sin firma no está aceptado: está ignorado.
+
+Riesgos sin señal temprana: 0 → []
+→ Sin señal observable no hay seguimiento posible: el riesgo se detecta cuando ya ocurrió.

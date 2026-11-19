@@ -1,0 +1,18 @@
+id del riesgo,Qué se comunica,A quién (cargo),Cuándo / frecuencia,Canal,Quién comunica,Formato,Qué decisión habilita
+R-15,Estado de ejecución del plan e indicadores,"Gerencia General, comité de TI y directorio",Trimestral,Sesión de comité,Responsable del plan,Tablero + acta,"Continuar, ajustar o detener"
+R-01,Ejecución presupuestal vs. planificado y proyección del año siguiente,Gerencia General y Gerencia de Administración,Trimestral y ante desviación > 10 %,Informe escrito,Jefatura de TI,Reporte de 1 página,Reasignación o escenario reducido
+R-03,Asistencia del patrocinador y acuerdos del comité,Gerencia General y directorio,Trimestral,Sesión de comité,Responsable del plan,Acta,Reforzar o sustituir el patrocinio
+R-05,Factor bus por proyecto y avance de PR-10,Gerencia General y RR. HH.,Mensual mientras el residual sea > 6,Correo con tablero,Jefatura de TI,Indicador,Priorizar contratación o formación
+R-07,Adopción del canal digital por vendedor y cliente,Gerencia Comercial y fuerza de ventas,Semanal en el piloto; mensual después,Reunión de equipo,Gerencia Comercial,Tablero visible,Ajustar incentivos o rediseñar
+R-09,Estado de la renegociación del soporte del ERP,Gerencia General,Quincenal hasta la firma,Correo,Gerencia de Administración,Estado en una línea,Escalar o activar plan de salida
+R-12,Resultado de pruebas de restauración y BIA validado,Gerencia General y dueños de proceso,Trimestral,Sesión de comité,Jefatura de TI,Informe de prueba,Aprobar dimensionamiento de PR-07
+R-11,Resultado de la prueba de concepto de integración,Comité de TI,Al concluir la prueba,Sesión de comité,Jefatura de TI,Informe técnico,Aprobar PR-03 o activar la alternativa
+R-02,OPEX acumulado vs. techo anual,Gerencia de Administración,Trimestral,Informe escrito,Jefatura de TI,Reporte de 1 página,Dar de baja servicios o reasignar
+R-08,Estado del maestro de clientes y hojas paralelas,Gerencia General y áreas dueñas de hojas,Mensual durante PR-01,Reunión de equipo,Jefatura de TI,Indicador,Reforzar gestión del cambio
+R-04,Proyectos activos y cierres de hito,Jefatura de TI y comité de TI,Mensual,Reunión de equipo,Jefatura de TI,Tablero,Postergar o tercerizar
+R-13,Vigilancia normativa y avance de PR-02,Jefatura de TI y Asesoría Legal,Trimestral,Correo,Asesoría Legal,Nota de 1 página,Adelantar o reordenar PR-02
+R-14,Pedidos nuevos y casos de negocio,Comité de TI,En cada sesión,Sesión de comité,Jefatura de TI,Lista de admisión,"Admitir, diferir o rechazar"
+R-16,Línea base y beneficio medido por proyecto,Gerencia General y comité de TI,Trimestral,Sesión de comité,Jefatura de TI,Tablero,Continuar financiando o corregir
+R-06,Estado de respaldo de la analista comercial,Gerencia Comercial,Trimestral,Correo,Gerencia Comercial,Indicador,Asignar segundo responsable
+R-10,Incidentes y precios de proveedores,Gerencia de Administración,Semestral,Informe escrito,Jefatura de TI,Reporte de 1 página,Renegociar o activar salida
+Todos ≥ 15,"Riesgo, tratamiento, residual y responsable de la aceptación",Gerencia General,Antes de aprobar el plan,Sesión formal,Responsable del plan,Anexo del PETI con firmas,Aprobar el plan con conocimiento del riesgo

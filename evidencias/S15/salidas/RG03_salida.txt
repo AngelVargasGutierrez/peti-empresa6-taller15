@@ -1,0 +1,38 @@
+=== REGISTRO DE RIESGOS DEL PLAN ===
+  id              Categoría  P  I  valor   nivel
+R-15     Ejecución del plan  4  5     20 Crítico
+R-01           Presupuestal  4  4     16 Crítico
+R-07  Resistencia al cambio  4  4     16 Crítico
+R-03             Patrocinio  4  4     16 Crítico
+R-09              Proveedor  4  4     16 Crítico
+R-12                Técnico  4  4     16 Crítico
+R-05         Personal clave  4  4     16 Crítico
+R-11                Técnico  3  5     15 Crítico
+R-14             De alcance  4  3     12    Alto
+R-08  Resistencia al cambio  4  3     12    Alto
+R-02           Presupuestal  3  4     12    Alto
+R-04 Capacidad de ejecución  4  3     12    Alto
+R-16     Ejecución del plan  4  3     12    Alto
+R-13              Normativo  3  4     12    Alto
+R-06         Personal clave  3  3      9   Medio
+R-10              Proveedor  3  3      9   Medio
+
+Riesgos evaluados : 16
+nivel
+Crítico    8
+Alto       6
+Medio      2
+Bajo       0
+
+Categorías SIN riesgo identificado: ninguna ✔
+
+=== RIESGOS ≥ 15 — requieren decisión de la gerencia general ===
+  id             Categoría  valor
+R-15    Ejecución del plan     20
+R-01          Presupuestal     16
+R-07 Resistencia al cambio     16
+R-03            Patrocinio     16
+R-09             Proveedor     16
+R-12               Técnico     16
+R-05        Personal clave     16
+R-11               Técnico     15
