@@ -1,0 +1,4 @@
+Comprobación 1 - nueve categorías: OK
+Comprobación 2 - P e I justificados con dato: OK (16/16 con justificación)
+Comprobación 3 - riesgo >6 con tratamiento, responsable por cargo y señal: OK (16/16)
+Python 3.13.7 pandas 2.3.3 matplotlib 3.11.1
