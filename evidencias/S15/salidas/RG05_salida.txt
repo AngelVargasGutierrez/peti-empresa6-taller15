@@ -1,4 +1,4 @@
-  id  Valor  Valor residual  reduccion  reduccion_pct                          Decisión
+﻿  id  Valor  Valor residual  reduccion  reduccion_pct                          Decisión
 R-15     20               8         12           60.0                           Mitigar
 R-01     16               9          7           44.0 Mitigar + Asumir con contingencia
 R-03     16               8          8           50.0                           Mitigar

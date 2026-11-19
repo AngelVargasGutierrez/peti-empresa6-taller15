@@ -6,7 +6,7 @@
 Esta sección gestiona los riesgos que amenazan la **ejecución del PETI Año 1 – Año 3**. Excluye los riesgos operativos de TI (registro de Administración RG-01 a RG-09, tratados en el diagnóstico) y los de negocio (PEI, OE-1 a OE-4). Escalas de probabilidad e impacto con definición operativa, criterio de aceptación (≤ 6 aceptable con documentación · 7–14 tratamiento con plazo · ≥ 15 decisión de la Gerencia General antes de aprobar el plan) y dueños por cargo están en `08_riesgos/RG01_contexto.md`. **Fecha de acuerdo de los criterios: 19 de noviembre de 2026**, primer commit del repositorio, anterior a la evaluación.
 
 ### 8.2 Método
-ISO 31000:2018 (contexto, apreciación, tratamiento, residuo, comunicación, seguimiento) con ISO/IEC 27005:2022 como referencia complementaria. Fuentes de identificación: política de respaldo POL-TI-023 contrastada con la práctica declarada, BIA (`bia.csv`), universo auditable y registro de riesgos de Administración, y el caso (ficha, gobierno, sistemas, presupuesto, inversiones cerradas, incidentes). **No se dispuso del resultado del pre-mortem de aula**; los riesgos de patrocinio, personal clave y ejecución se derivan del diagnóstico y deben contrastarse con él.
+ISO 31000:2018 (contexto, apreciación, tratamiento, residuo, comunicación, seguimiento) con ISO/IEC 27005:2022 como referencia complementaria. Fuentes de identificación: política de respaldo POL-TI-023 contrastada con la práctica declarada, BIA (`bia.csv`), universo auditable y registro de riesgos de Administración, y el caso (ficha, gobierno, sistemas, presupuesto, inversiones cerradas, incidentes). **Se realizó además un pre-mortem de los dos integrantes (Anexo E), posterior al registro, como contraste**: las 16 causas de fracaso imaginadas quedaron cubiertas por los 16 riesgos y no apareció ninguno nuevo. No sustituye una dinámica con la gerencia.
 
 ### 8.3 Registro de riesgos
 Dieciséis riesgos sobre las **nueve categorías**, más la categoría característica «Ejecución del plan». Ninguna categoría se omitió.
@@ -70,7 +70,7 @@ Reducción total lograda: **102 puntos (46%)**. En R-05 el tratamiento reduce el
 | R-11 | Prueba de concepto pospuesta | 2 postergaciones |
 | R-02 | OPEX proyectado supera el 70 % del presupuesto anual de TI | Superar el 70 % en cualquier trimestre |
 | R-08 | Hoja paralela se sigue actualizando tras el cierre de PR-01 | Una hoja activa 30 días después del cierre |
-| R-04 | Proyectos que avanzan pero ninguno cierra | 3 proyectos activos sin hito cerrado en un trimestre |
+| R-04 | Proyectos que avanzan pero ninguno cierra; incidentes mayores abiertos a la vez | 3 proyectos activos sin hito cerrado en un trimestre |
 | R-13 | Prepublicación de proyecto normativo o notificación de la autoridad | Publicación en consulta |
 | R-14 | Proyectos activos sin caso de negocio | 1 caso |
 | R-16 | Proyecto cerrado sin medición de beneficio | 1 proyecto |

@@ -1,4 +1,4 @@
-=== REGISTRO DE RIESGOS DEL PLAN ===
+﻿=== REGISTRO DE RIESGOS DEL PLAN ===
   id              Categoría  P  I  valor   nivel
 R-15     Ejecución del plan  4  5     20 Crítico
 R-01           Presupuestal  4  4     16 Crítico
